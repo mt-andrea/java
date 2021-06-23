@@ -1,0 +1,8 @@
+1.	Ha az x változó értéke 8, akkor mi lesz az s változó értéke?
+s = (x % 2 == 0 ? "páros" : "páratlan")
+páros
+2.	Írd le ugyanezt if utasítással:
+if (x % 2 == 0){s="páros";}else{s="páratlan"}
+3.	Ha m egy több szóból álló string, a szavak között egy-egy szóközzel,  akkor mit ad meg az alábbi kifejezés?
+m.split(" ").length
+a szavak számát
